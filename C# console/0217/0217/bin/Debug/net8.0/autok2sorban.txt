@@ -1,0 +1,22 @@
+Honda Accord
+96352
+Honda Civic
+76084
+Opel Corsa
+20875
+Opel Vectra
+34258
+Renault Laguna
+29802
+Skoda Superb
+27825
+Suzuki Ignis
+64809
+Suzuki Swift
+17348
+Suzuki SX4
+80852
+Toyota Auris
+70337
+Toyota IQ
+10469

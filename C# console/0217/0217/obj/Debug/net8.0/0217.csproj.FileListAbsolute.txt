@@ -1,0 +1,14 @@
+D:\Juhász Gergő\2025\0217\0217\bin\Debug\net8.0\0217.exe
+D:\Juhász Gergő\2025\0217\0217\bin\Debug\net8.0\0217.deps.json
+D:\Juhász Gergő\2025\0217\0217\bin\Debug\net8.0\0217.runtimeconfig.json
+D:\Juhász Gergő\2025\0217\0217\bin\Debug\net8.0\0217.dll
+D:\Juhász Gergő\2025\0217\0217\bin\Debug\net8.0\0217.pdb
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.AssemblyInfoInputs.cache
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.AssemblyInfo.cs
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.csproj.CoreCompileInputs.cache
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.dll
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\refint\0217.dll
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.pdb
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\0217.genruntimeconfig.cache
+D:\Juhász Gergő\2025\0217\0217\obj\Debug\net8.0\ref\0217.dll

@@ -1,0 +1,14 @@
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\bin\Debug\net8.0\Alkalmazottak.exe
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\bin\Debug\net8.0\Alkalmazottak.deps.json
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\bin\Debug\net8.0\Alkalmazottak.runtimeconfig.json
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\bin\Debug\net8.0\Alkalmazottak.dll
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\bin\Debug\net8.0\Alkalmazottak.pdb
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.AssemblyInfoInputs.cache
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.AssemblyInfo.cs
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.csproj.CoreCompileInputs.cache
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.dll
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\refint\Alkalmazottak.dll
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.pdb
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\Alkalmazottak.genruntimeconfig.cache
+E:\prog\korrep\20250318\Alkalmazottak\Alkalmazottak\obj\Debug\net8.0\ref\Alkalmazottak.dll

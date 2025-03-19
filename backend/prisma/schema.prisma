@@ -1,0 +1,36 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model departments {
+  id                  Int                   @id @default(autoincrement())
+  name                String                @db.VarChar(255)
+  employee_department employee_department[] @ignore
+
+  @@index([name], map: "department")
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model employee_department {
+  employee_id   Int
+  department_id Int
+  departments   departments @relation(fields: [department_id], references: [id], onDelete: Cascade, map: "employee_department_ibfk_1")
+  employees     employees   @relation(fields: [employee_id], references: [id], onDelete: Cascade, map: "employee_department_ibfk_2")
+
+  @@index([department_id], map: "department")
+  @@index([employee_id], map: "employee")
+  @@ignore
+}
+
+model employees {
+  id                  Int                   @id @default(autoincrement())
+  name                String                @db.VarChar(255)
+  age                 Int
+  salary              Decimal               @db.Decimal(10, 2)
+  employee_department employee_department[] @ignore
+}

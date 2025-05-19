@@ -11,9 +11,8 @@ $ npm run dev
 backend:
 
 npm init -y
-npm install prisma --save-dev
 
-npx prisma
+npm install prisma express
 
 npx prisma init
 
